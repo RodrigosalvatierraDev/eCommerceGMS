@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro Max",
+    "price": 599520,
+    "description": "Cámara principal de 48 MP, 8 GB de RAM, almacenamiento de hasta 1 TB.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_896424-MLA71783367608_092023-O.webp"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S23 Ultra",
+    "price": 623520,
+    "description": "Cámara principal de 200 MP, 12 GB de RAM, almacenamiento de hasta 1 TB.",
+    "image": "http://http2.mlstatic.com/D_NQ_NP_2X_730886-MLU79072303759_092024-F.webp"
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 8 Pro",
+    "price": 455520,
+    "description": "Cámara principal de 50 MP, 12 GB de RAM, almacenamiento de hasta 512 GB.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_870087-MLA80395659000_112024-F.webp"
+  },
+  {
+    "id": 4,
+    "name": "OnePlus 11 5G",
+    "price": 383520,
+    "description": "Cámara principal de 50 MP, 16 GB de RAM, almacenamiento de hasta 512 GB.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_657525-MLA79193887929_092024-O.webp"
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi 13 Pro",
+    "price": 431520,
+    "description": "Cámara principal de 50 MP con tecnología Leica, 12 GB de RAM, almacenamiento de hasta 512 GB.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_709499-MLA75547214934_042024-F.webp"
+  },
+  {
+    "id": 6,
+    "name": "Samsung Galaxy Z Fold 5",
+    "price": 863520,
+    "description": "Cámara principal de 50 MP, 12 GB de RAM, almacenamiento de hasta 1 TB, pantalla plegable Dynamic AMOLED.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_930951-MLU79254572557_092024-O.webp"
+  },
+  {
+    "id": 7,
+    "name": "Sony Xperia 1 IV",
+    "price": 623520,
+    "description": "Cámara principal de 12 MP con grabación 4K, 12 GB de RAM, almacenamiento de hasta 512 GB.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_857528-MLA78069883608_082024-O.webp"
+  },
+  {
+    "id": 8,
+    "name": "Oppo Find X6 Pro",
+    "price": 527520,
+    "description": "Cámara principal de 50 MP con zoom óptico 3x, 12 GB de RAM, almacenamiento de hasta 512 GB.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_677581-MLA79047711967_092024-O.webp"
+  },
+  {
+    "id": 9,
+    "name": "Motorola Edge 40 Pro",
+    "price": 383520,
+    "description": "Cámara principal de 50 MP, 12 GB de RAM, almacenamiento de hasta 256 GB.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_611299-MLA76681890300_062024-O.webp"
+  },
+  {
+    "id": 10,
+    "name": "Realme GT 2 Pro",
+    "price": 431520,
+    "description": "Cámara principal de 50 MP, 12 GB de RAM, almacenamiento de hasta 256 GB.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_803612-MLA77269093295_062024-F.webp"
+  },
+  {
+    "id": 11,
+    "name": "Asus ROG Phone 7",
+    "price": 479520,
+    "description": "Cámara principal de 50 MP, 16 GB de RAM, almacenamiento de hasta 512 GB, optimizado para gaming.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_631387-MLA78811046900_092024-O.webp"
+  },
+  {
+    "id": 12,
+    "name": "Huawei P60 Pro",
+    "price": 527520,
+    "description": "Cámara principal de 50 MP, 8 GB de RAM, almacenamiento de hasta 512 GB.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_826562-MLA79400106684_092024-O.webp"
+  }
+]

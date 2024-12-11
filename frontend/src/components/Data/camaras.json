@@ -1,0 +1,87 @@
+[
+    {
+      "id": "1345",
+      "name": "Canon EOS R6 Mark II",
+      "description": "La Canon EOS R6 Mark II es una cámara mirrorless con un sensor full-frame, ideal para fotografía y video en alta calidad. Tiene enfoque automático rápido y una excelente estabilización de imagen.",
+      "price": 329999,
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_798421-MLA77673687826_072024-E.webp"
+    },
+    {
+      "id": "2456",
+      "name": "Sony Alpha 7 IV",
+      "description": "La Sony Alpha 7 IV es una cámara sin espejo de fotograma completo, famosa por su capacidad de grabación en 4K y su rendimiento en condiciones de poca luz.",
+      "price": 449999,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_828843-MLU72700405365_112023-O.webp"
+    },
+    {
+      "id": "3567",
+      "name": "Nikon Z9",
+      "description": "La Nikon Z9 es una cámara profesional sin espejo con un sensor de fotograma completo, capaz de grabar en 8K y realizar ráfagas de hasta 20 fotogramas por segundo.",
+      "price": 799999,
+      "image": "https://static.wixstatic.com/media/1a92e1_2de97871e6fa44e7a31c4df92e5b5478~mv2.png/v1/fill/w_700,h_600,al_c,q_90,enc_auto/1a92e1_2de97871e6fa44e7a31c4df92e5b5478~mv2.png"
+    },
+    {
+      "id": "4678",
+      "name": "Fujifilm X-T4",
+      "description": "La Fujifilm X-T4 es una cámara sin espejo con sensor APS-C, ideal para videógrafos y fotógrafos, con grabación en 4K y estabilización de imagen en el cuerpo.",
+      "price": 179999,
+      "image": "https://images.squarespace-cdn.com/content/v1/5d2dc216182bea0001be410f/1618063424292-SM90VMPAGBS59LMSOIMR/Fujifilm-X-T4-2.jpg"
+    },
+    {
+      "id": "5789",
+      "name": "Panasonic Lumix GH6",
+      "description": "La Panasonic Lumix GH6 es una cámara mirrorless micro cuatro tercios, excelente para cineastas gracias a su grabación 4K a 60fps y otras capacidades profesionales.",
+      "price": 249999,
+      "image": "https://quecamaradefotos.com/camara/datos/camaras/Panasonic-Lumix-DC-GH6/CAM-1011-Panasonic-Lumix-DC-GH6-viewFO500-objetivo.jpg"
+    },
+    {
+      "id": "6890",
+      "name": "Olympus OM-D E-M1 Mark III",
+      "description": "La Olympus OM-D E-M1 Mark III es una cámara sin espejo de micro cuatro tercios, destacada por su estabilización de imagen y su rendimiento en condiciones de poca luz.",
+      "price": 159999,
+      "image": "https://au-en.explore.omsystem.com/media/catalog/product/a/s/astro-02.jpg?optimize=medium&fit=bounds&height=1080&width=1920&canvas=1920:1080"
+    },
+    {
+      "id": "7901",
+      "name": "Leica M10-R",
+      "description": "La Leica M10-R es una cámara digital de telémetro de fotograma completo, conocida por su excelente calidad de construcción y sus imágenes excepcionales.",
+      "price": 799999,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-3zbSgCc5z-YFFcfmHLmSwVoQKj39yz_Cg&s"
+    },
+    {
+      "id": "8012",
+      "name": "GoPro HERO 11 Black",
+      "description": "La GoPro HERO 11 Black es una cámara de acción compacta, ideal para deportes extremos y grabación en 4K, resistente al agua y con una gran estabilización de imagen.",
+      "price": 79999,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_938774-MLA80855303011_112024-O.webp"
+    },
+    {
+      "id": "9123",
+      "name": "Blackmagic URSA Mini Pro 12K",
+      "description": "La Blackmagic URSA Mini Pro 12K es una cámara de cine digital profesional, capaz de grabar en 12K, ideal para producciones cinematográficas de alta calidad.",
+      "price": 599999,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_985375-MLU74084877843_012024-O.webp"
+    },
+    {
+      "id": "1234",
+      "name": "Ricoh GR IIIx",
+      "description": "La Ricoh GR IIIx es una cámara compacta con un sensor APS-C y lente fija de 26mm, perfecta para fotografía urbana y de calle con gran calidad de imagen.",
+      "price": 79999,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwi5j16X2uvqoYN7pka2691kEBq03j49LqXQ&s"
+    },
+    {
+      "id": "2345",
+      "name": "Canon EOS 90D",
+      "description": "La Canon EOS 90D es una cámara DSLR con un sensor APS-C, ideal para fotografía de acción y deportes, con un sistema de enfoque automático avanzado.",
+      "price": 169999,
+      "image": "https://www.canonwatch.com/wp-content/uploads/2019/09/90D-11.jpg"
+    },
+    {
+      "id": "3456",
+      "name": "Sony FX3",
+      "description": "La Sony FX3 es una cámara de cine compacta de la línea Cinema Line, con capacidades de grabación en 4K, ideal para cineastas y creadores de contenido profesional.",
+      "price": 349999,
+      "image": "https://fdbrental.com.ar/images/productos/53/fotos/med_2403558b189802972945af0c8047485a.jpg"
+    }
+  ]
+  

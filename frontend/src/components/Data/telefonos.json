@@ -1,0 +1,86 @@
+[
+    {
+        "id": 2543,
+        "name": "iPhone 16 Pro Max",
+        "description": "Pantalla Super Retina XDR de 6.7 pulgadas con ProMotion, chip A18 Bionic, cámara triple de 48 MP con mejoras en fotografía en baja luz y 5x de zoom óptico.",
+        "price": 659999,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_882620-MLU79129262427_092024-F.webp"
+    },
+    {
+        "id": 9137,
+        "name": "Samsung Galaxy S24 Ultra",
+        "description": "Pantalla Dynamic AMOLED 2X de 6.8 pulgadas, procesador Exynos 2400, cámara cuádruple de 200 MP.",
+        "price": 429999,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_839393-MLU79002817479_092024-O.webp"
+    },
+    {
+        "id": 4021,
+        "name": "Google Pixel 9 Pro",
+        "description": "Pantalla OLED de 6.7 pulgadas, procesador Google Tensor G3, cámara principal de 50 MP y software optimizado para fotografía.",
+        "price": 319999,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_883504-MLA81195029175_122024-O.webp"
+    },
+    {
+        "id": 6712,
+        "name": "Xiaomi 14 Pro",
+        "description": "Pantalla AMOLED de 6.73 pulgadas, procesador Snapdragon 8 Gen 3, cámara de 200 MP, batería de 5000 mAh.",
+        "price": 289999,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_922200-MLA79450368581_092024-O.webp"
+    },
+    {
+        "id": 8554,
+        "name": "OnePlus 12",
+        "description": "Pantalla Fluid AMOLED de 6.7 pulgadas, procesador Snapdragon 8 Gen 3, cámara principal de 50 MP.",
+        "price": 259999,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_818097-MLA78810207328_092024-O.webp"
+    },
+    {
+        "id": 1207,
+        "name": "Motorola Edge 40 Pro",
+        "description": "Pantalla AMOLED de 6.67 pulgadas, procesador Snapdragon 8 Gen 3, cámara principal de 50 MP.",
+        "price": 239999,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_611299-MLA76681890300_062024-O.webp"
+    },
+    {
+        "id": 5632,
+        "name": "Huawei Mate 60 Pro",
+        "description": "Pantalla OLED de 6.82 pulgadas, procesador Kirin 9000, cámara cuádruple de 50 MP.",
+        "price": 419999,
+        "image": "https://i.ebayimg.com/images/g/F2EAAOSwltRk~tGf/s-l1600.webp"
+    },
+    {
+        "id": 3315,
+        "name": "Sony Xperia 1 V",
+        "description": "Pantalla OLED 4K de 6.5 pulgadas, procesador Snapdragon 8 Gen 2, cámara de 48 MP con enfoque automático rápido.",
+        "price": 359999,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_957220-MLA80654999151_112024-O.webp"
+    },
+    {
+        "id": 7421,
+        "name": "Oppo Find X6 Pro",
+        "description": "Pantalla AMOLED de 6.82 pulgadas, procesador Snapdragon 8 Gen 2, cámara principal de 50 MP.",
+        "price": 289999,
+        "image": "https://i.blogs.es/ae49d0/oppo-find-x6-1/650_1200.jpeg"
+    },
+    {
+        "id": 5073,
+        "name": "Realme GT 3 Pro",
+        "description": "Pantalla AMOLED de 6.74 pulgadas, procesador Snapdragon 8 Gen 3, cámara de 100 MP.",
+        "price": 229999,
+        "image": "https://www.powerplanetonline.com/cdnassets/realme_gt3_blanco_01_l.jpg"
+    },
+    {
+        "id": 1892,
+        "name": "Asus ROG Phone 7",
+        "description": "Pantalla AMOLED de 6.78 pulgadas, procesador Snapdragon 8 Gen 2, cámara principal de 50 MP, batería de 6000 mAh.",
+        "price": 469999,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_894962-MLA80993541359_112024-O.webp"
+    },
+    {
+        "id": 3167,
+        "name": "Vivo X90 Pro",
+        "description": "Pantalla AMOLED de 6.78 pulgadas, procesador Dimensity 9200, cámara principal de 50 MP.",
+        "price": 289999,
+        "image": "https://ar.celulares.com/fotos/vivo-x90-pro-plus-96318-g-alt.jpg"
+    }
+]

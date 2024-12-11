@@ -1,0 +1,87 @@
+[
+    {
+      "id": "1234",
+      "name": "Apple Watch Ultra 2",
+      "description": "El Apple Watch Ultra 2 es un reloj inteligente premium diseñado para aventureros, con una pantalla más grande y más brillante, GPS avanzado y resistencia al agua.",
+      "price": 799.99,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_882490-MLU77852262960_072024-F.webp"
+    },
+    {
+      "id": "2345",
+      "name": "Samsung Galaxy Watch 6 Classic",
+      "description": "El Galaxy Watch 6 Classic de Samsung ofrece una experiencia de smartwatch premium con su diseño clásico y funciones avanzadas de seguimiento de salud y ejercicio.",
+      "price": 399.99,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_925508-MLA73048263706_112023-O.webp"
+    },
+    {
+      "id": "3456",
+      "name": "Garmin Fenix 7",
+      "description": "El Garmin Fenix 7 es un reloj inteligente todo terreno con GPS de alta precisión, ideal para deportes de aventura y actividades al aire libre.",
+      "price": 649.99,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_819463-MLU78938080413_092024-O.webp"
+    },
+    {
+      "id": "4567",
+      "name": "Fitbit Sense 2",
+      "description": "El Fitbit Sense 2 es un reloj inteligente enfocado en la salud, con monitoreo del estrés, ECG, SpO2 y más para ayudarte a mejorar tu bienestar.",
+      "price": 299.99,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_944514-MLA79827869781_102024-F.webp"
+    },
+    {
+      "id": "5678",
+      "name": "Huawei Watch GT 3 Pro",
+      "description": "El Huawei Watch GT 3 Pro es un smartwatch elegante con seguimiento de salud avanzado, pantalla AMOLED y hasta 14 días de duración de batería.",
+      "price": 349.99,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_744775-MLA79538907644_102024-O.webp"
+    },
+    {
+      "id": "6789",
+      "name": "Amazfit GTR 4",
+      "description": "El Amazfit GTR 4 combina un diseño sofisticado con funciones avanzadas de seguimiento de salud, incluyendo monitoreo de oxígeno en sangre y un GPS de alta precisión.",
+      "price": 199.99,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_912028-MLU79058574850_092024-O.webp"
+    },
+    {
+      "id": "7890",
+      "name": "Suunto 9 Peak Pro",
+      "description": "El Suunto 9 Peak Pro es un reloj resistente y duradero, ideal para atletas de alto rendimiento, con GPS preciso y hasta 170 horas de duración de batería.",
+      "price": 499.99,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_909310-MLU74944230306_032024-O.webp"
+    },
+    {
+      "id": "8901",
+      "name": "Withings Steel HR Sport",
+      "description": "El Withings Steel HR Sport es un reloj híbrido que ofrece monitoreo de actividad física, frecuencia cardíaca y notificaciones, todo en un diseño elegante de acero inoxidable.",
+      "price": 179.99,
+      "image": "https://www.macnificos.com/sites/files/styles/product_page_zoom/public/images/product/wi-hwa03b-40spblk-01-withings-steel-hr-sport-negro-40mm.jpg?itok=38BrFflu"
+    },
+    {
+      "id": "9012",
+      "name": "Xiaomi Mi Watch S1 Pro",
+      "description": "El Xiaomi Mi Watch S1 Pro es un reloj inteligente con una pantalla AMOLED de alta resolución, seguimiento de salud avanzado y hasta 12 días de duración de batería.",
+      "price": 249.99,
+      "image": "https://www.megatone.net/images//Articulos/zoom2x/239/MKT1023ETC-2.jpg"
+    },
+    {
+      "id": "1123",
+      "name": "Fossil Gen 6 Hybrid HR",
+      "description": "El Fossil Gen 6 Hybrid HR combina lo mejor de los relojes inteligentes y tradicionales, con pantalla táctil, monitoreo de salud y una batería de larga duración.",
+      "price": 229.99,
+      "image": "https://fossilmy.com/cdn/shop/products/FTW7074_main.jpg?v=1679379832"
+    },
+    {
+      "id": "2234",
+      "name": "Garmin Venu 2",
+      "description": "El Garmin Venu 2 es un reloj inteligente para entusiastas del fitness, con una pantalla AMOLED brillante, seguimiento de actividades y GPS incorporado.",
+      "price": 399.99,
+      "image": "https://garmin.com.ar/Image/0/750_750-GRIS1.jpg"
+    },
+    {
+      "id": "3345",
+      "name": "Samsung Galaxy Watch 5 Pro",
+      "description": "El Samsung Galaxy Watch 5 Pro es el reloj ideal para los deportistas, con seguimiento avanzado de salud, GPS preciso y una batería de larga duración.",
+      "price": 449.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu4kZva6nUdbHO_Bcui3ZRjapP_AgUAIzu-A&s"
+    }
+  ]
+  

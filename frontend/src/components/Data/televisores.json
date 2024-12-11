@@ -1,0 +1,87 @@
+[
+    {
+      "id": "1234",
+      "name": "Samsung QLED 4K",
+      "description": "Televisor QLED 4K con HDR, 55 pulgadas y soporte para Alexa.",
+      "price": 120000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_973901-MLA75572833193_042024-O.webp"
+    },
+    {
+      "id": "5678",
+      "name": "LG OLED 55 pulgadas",
+      "description": "Pantalla OLED de 55 pulgadas, 4K, Dolby Vision y Dolby Atmos.",
+      "price": 185000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_726215-MLA80368072249_112024-O.webp"
+    },
+    {
+      "id": "9101",
+      "name": "Sony Bravia 65 pulgadas",
+      "description": "Televisor 4K de 65 pulgadas con Android TV y compatibilidad con Google Assistant.",
+      "price": 160000,
+      "image": "https://m.media-amazon.com/images/I/61F3j2sAKvL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "1122",
+      "name": "TCL 4K Smart TV",
+      "description": "Smart TV 4K de 55 pulgadas con Roku integrado.",
+      "price": 60000,
+      "image": "https://www.megatone.net/images//Articulos/zoom2x/254/MKT1126EMO-1.jpg"
+    },
+    {
+      "id": "3344",
+      "name": "Philips Ambilight 50 pulgadas",
+      "description": "Televisor con tecnología Ambilight, 50 pulgadas, 4K UHD.",
+      "price": 95000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_949253-MLU74362194258_022024-O.webp"
+    },
+    {
+      "id": "5567",
+      "name": "Hisense 43 pulgadas 4K",
+      "description": "Televisor Hisense 4K de 43 pulgadas con soporte para HDR10.",
+      "price": 55000,
+      "image": "https://www.hisensecac.com/wp-content/uploads/2023/06/43A4K_2024.png"
+    },
+    {
+      "id": "7789",
+      "name": "Samsung Crystal UHD 50 pulgadas",
+      "description": "Pantalla Crystal UHD 50 pulgadas con resolución 4K, Smart TV integrado.",
+      "price": 70000,
+      "image": "https://www.rodo.com.ar/media/catalog/product/cache/855090a5c67e45b26c9e0d345e7592dc/c/u/cu7000_50_1.jpg"
+    },
+    {
+      "id": "9900",
+      "name": "Xiaomi Mi TV 4K 55 pulgadas",
+      "description": "Smart TV 4K de 55 pulgadas con Android TV y control por voz.",
+      "price": 85000,
+      "image": "https://cdn-xiaomi.waugi.com.ar/941-thickbox_default/mi-tv-p1-55-lm.jpg"
+    },
+    {
+      "id": "2233",
+      "name": "Vizio 4K 60 pulgadas",
+      "description": "Televisor 60 pulgadas, 4K UHD, con soporte para Alexa y Google Assistant.",
+      "price": 110000,
+      "image": "https://www.beltronica.com.mx/cdn/shop/products/VIZP602UI-B3_90918ad8-566e-4bf5-b571-ff44cfd2f6bf_2048x.jpg?v=1568231743"
+    },
+    {
+      "id": "4455",
+      "name": "Sharp AQUOS 70 pulgadas",
+      "description": "Pantalla de 70 pulgadas con 4K UHD y tecnología AquoMotion para movimientos suaves.",
+      "price": 140000,
+      "image": "https://m.media-amazon.com/images/I/81uvuVRhXaL.jpg"
+    },
+    {
+      "id": "6677",
+      "name": "Samsung The Frame 55 pulgadas",
+      "description": "Televisor 4K de 55 pulgadas con un diseño que se adapta a la decoración de la casa.",
+      "price": 220000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_610943-MLU72641140681_112023-O.webp"
+    },
+    {
+      "id": "8899",
+      "name": "LG NanoCell 60 pulgadas",
+      "description": "Pantalla NanoCell con tecnología 4K y soporte para Dolby Vision.",
+      "price": 135000,
+      "image": "https://www.cetrogar.com.ar/media/catalog/product/1/_/1_53_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=500&width=500&canvas=500:500"
+    }
+  ]
+  
