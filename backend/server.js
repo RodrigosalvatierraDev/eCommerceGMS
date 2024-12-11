@@ -13,7 +13,10 @@ dotenv.config();
 const app = express();
 
 // Middleware
-app.use(cors());
+app.use(cors({
+  origin: ['https://e-commerce-gms-e8th-ophq4jx4u-rodrigos-projects-b6f54614.vercel.app'], // Tu URL de Vercel
+  credentials: true,
+}));
 app.use(express.json());
 
 // Rutas
