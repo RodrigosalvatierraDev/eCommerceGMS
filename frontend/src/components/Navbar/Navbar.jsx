@@ -34,10 +34,8 @@ const Navbar = () => {
 
     if (
         location.pathname === '/login' || 
-        location.pathname === '/register' ||
-        location.pathname === '/recover-account' || 
+        location.pathname === '/register' || 
         location.pathname === '/payment-success' || 
-        location.pathname === '/checkout' || 
         location.pathname.startsWith('/admin') ||
         location.pathname === '/404' 
     ) {

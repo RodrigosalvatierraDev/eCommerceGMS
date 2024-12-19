@@ -90,18 +90,24 @@ const Footer = () => {
                 
                 <div className='py-8 px-4'>
                     <h1 className='text-xl font-bold mb-3 dark:text-primary'>Redes Sociales</h1>
-                    <ul className='space-y-3'>
-                        {
-                            RedesSociales.map((data, index) => (
-                                <li key={index}>
-                                    <a href={data.link} className='text-gray-600 hover:text-black duration-300 dark:hover:text-white'>
-                                        {data.title}
-                                    </a>
-                                </li>
-                            ))
-                        }
-                    </ul>
+                        <ul className='space-y-3'>
+                            {
+                                RedesSociales.map((data, index) => (
+                                    <li key={index}>
+                                        <a 
+                                            href={data.link} 
+                                                className='text-gray-600 hover:text-black duration-300 dark:hover:text-white'
+                                                target="_blank" 
+                                                rel="noopener noreferrer"
+                                            >
+                                                {data.title}
+                                        </a>
+                                    </li>
+                                    ))
+                                }
+                        </ul>
                 </div>
+
 
                 
                 <div className='flex flex-col items-center px-4 mt-8'>

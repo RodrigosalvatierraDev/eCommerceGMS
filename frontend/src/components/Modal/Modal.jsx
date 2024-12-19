@@ -18,6 +18,7 @@ const Modal = ({ closeModal }) => {
         setLoading(true); 
         setTimeout(() => {
             setLoading(false);
+            closeModal();
             navigate('/checkout'); 
         }, 3000); 
     };
